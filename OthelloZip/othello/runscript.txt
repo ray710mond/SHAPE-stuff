@@ -1,0 +1,5 @@
+python othello_gui.py corner_seeker_ai.py corner_seeker_ai.py
+python othello_gui.py corner_seeker_ai.py randy_ai.py
+python othello_gui.py randy_ai.py corner_seeker_ai.py
+python othello_gui.py corner_seeker_ai.py timed_ai.py
+python othello_gui.py timed_ai.py corner_seeker_ai.py
