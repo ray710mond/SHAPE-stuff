@@ -10,6 +10,8 @@ from tkinter import scrolledtext
 from othello_game import OthelloGameManager, AiPlayerInterface, Player, InvalidMoveError, AiTimeoutError
 from othello_shared import get_possible_moves, get_score
 
+import sys
+
 class OthelloGui(object):
 
     def __init__(self, game_manager, player1, player2):
